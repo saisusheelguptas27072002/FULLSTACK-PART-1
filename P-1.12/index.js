@@ -26,7 +26,7 @@ function Anecdote(){
       <h1>Annecdote of the day</h1>
       <p>{anecdotes[selected]}</p><br></br>
       
-      <button onClick={Randomanecdote}>next</button>
+      <button onClick={Randomanecdote}>next Anecdote</button>
       
       
     </div>
